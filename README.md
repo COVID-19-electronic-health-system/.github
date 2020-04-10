@@ -1,0 +1,2 @@
+# .github
+Community health documentation
