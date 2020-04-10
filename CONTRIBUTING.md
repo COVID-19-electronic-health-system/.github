@@ -62,6 +62,62 @@ __When you are creating a feature request__, please include as many details as p
 
 ### Contributing Code
 
+This section describes how our workflow operates so that you can contribute code in a way that scales with a growing team and product.
+
+This represents a standard way that many open source projects operate, and more information including terminology and helpful commands can be found in the [SUPPORT.md]() file.
+
+> ⚠️ __Please do not clone directly from our main repository.__ This will point your local repo's [origin](https://www.git-tower.com/learn/git/glossary/origin) to our main repo, and you will not have write access. Doing so will eventually cause an error when attempting to push your changes.
+
+__When you are first setting up the repository__, follow the steps below to ensure that your changes can be merged into the project.
+
+1. [Fork the repository](https://help.github.com/en/github/getting-started-with-github/fork-a-repo), which creates a copy of the repository under your github account to submit changes to.
+2. [Clone the forked repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to your computer using the __Clone or download__ button and the address from github.
+e.g. `git clone https://github.com/YOUR_USERNAME/Corona-tracker.git`
+3. Change the working directory to your cloned project.
+Mac/Linux: `cd ./Corona-tracker`
+Windows: `cd .\Corona-tracker`
+4. [Add a remote](https://help.github.com/en/github/using-git/adding-a-remote) link to our project repository in order to track changes.
+e.g. `git remote add upstream https://github.com/COVID-19-electronic-health-system/Corona-tracker.git`
+5. [Create and checkout new branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) in your local project to start making changes.
+e.g. `git checkout -b <branch-name>`
+_Note: the `-b` is required when first creating the branch (combines `git checkout` and `git branch`)_
+6. Make changes in your local project, including adding files or updating existing code.
+7. Add the changed files and create a commit message describing the changes. __Repeat this process for all changes.__
+e.g. `git add README.md` or `git add -A` for all changed files
+e.g. `git commit -m "update table of contents in readme"`
+_Note: more information on [writing a good commit message](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) can be found in the linked article_
+
+___When the changes are complete and you are ready to submit them to our project__, [squash the commits](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing#squashing) using [git rebase](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing#rebasing).
+e.g. `git rebase -i` which brings up your text editor with a reference to your recent commits (X and Y below)
+```
+pick 7de252c X
+pick 02e5bd1 Y
+
+# Rebase 170afb6..02e5bd1 onto 170afb6 (2 command(s))
+#
+# Commands:
+# p, pick = use commit
+# r, reword = use commit, but edit the commit message
+# e, edit = use commit, but stop for amending
+# s, squash = use commit, but meld into previous commit
+# f, fixup = like "squash", but discard this commit's log message
+# x, exec = run command (the rest of the line) using shell
+# d, drop = remove commit
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#
+# Note that empty commits are commented out
+```
+_Note: Squashing your commits means reducing all your local commits to one single commit that will be placed in our repo's git history. This keeps our history clean and easy to read._
+9. first push the changes to the origin repository on Github (your fork).
+`git push -u origin <branch-name>`
+_Note: the `-u` is required when first pushing a new branch to the origin (your fork)._
+8. On github, [submit the pull request (PR)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the upstream repository when changes are complete.
+
 ## Style Guides
 
 ## Getting Support
