@@ -33,6 +33,23 @@ If you have any questions or need any additional information, please discuss it 
 
 ## How to Contribute
 
+### Reporting Bugs
+
+This section guides you through submitting a bug report for a Corona-tracker repository. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports (if applicable).
+
+__Before creating a bug report__, please check the list below as you might find out that you don't need to create one.
+
+1. __Check the README__ for a list of common questions, abstracts, concerns, etc.
+- __Search the ISSUES__ to see if the problem has already been reported. If it has __and the issue is still open__, add a comment to the existing issue instead of opening a new one.
+
+> __Note:__ If you find a __Closed__ issue that seems like it is the same thing that you are experiencing, __open a new issue__ and include a link to the closed issue in the body of your new one.
+
+__When you are creating a bug report__, please include as many details as possible and fill out required template. The information it asks for helps us resolve issues faster.
+
+### Suggesting Features / Enhancements
+
+### Contributing Code
+
 ## Style Guides
 
 ## Getting Support
