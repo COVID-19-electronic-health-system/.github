@@ -35,7 +35,9 @@ If you have any questions or need any additional information, please discuss it 
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for a Corona-tracker repository. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports (if applicable).
+This section guides you through submitting a bug report for a Corona-tracker repository. Bugs are tracked as [Github Issues](https://guides.github.com/features/issues/) and when creating a new issue you will choose from a template that gives you guidelines on what information to provide.
+
+Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports (if applicable).
 
 __Before creating a bug report__, please check the list below as you might find out that you don't need to create one.
 
@@ -44,9 +46,11 @@ __Before creating a bug report__, please check the list below as you might find 
 
 > __Note:__ If you find a __Closed__ issue that seems like it is the same thing that you are experiencing, __open a new issue__ and include a link to the closed issue in the body of your new one.
 
-__When you are creating a bug report__, please include as many details as possible and fill out required template. The information it asks for helps us resolve issues faster.
+__When you are creating a bug report__, please include as many details as possible and fill out the required issue template. The information it asks for helps us resolve issues faster. Use the outline in the issue template to explain the problem and include additional details for maintainers.
 
 ### Suggesting Features / Enhancements
+
+
 
 ### Contributing Code
 
