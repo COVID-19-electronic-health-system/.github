@@ -1,4 +1,4 @@
-# Contributing to Corona-tracker
+# Contributing to CoronaTracker
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ If you have any questions or need any additional information, please discuss it 
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for a Corona-tracker repository. Bugs are tracked as [Github Issues](https://guides.github.com/features/issues/) and when creating a new issue you will choose from a template that gives you guidelines on what information to provide.
+This section guides you through submitting a bug report for a CoronaTracker repository. Bugs are tracked as [Github Issues](https://guides.github.com/features/issues/) and when creating a new issue you will choose from a template that gives you guidelines on what information to provide.
 
 Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports (if applicable).
 
@@ -50,7 +50,15 @@ __When you are creating a bug report__, please include as many details as possib
 
 ### Suggesting Features / Enhancements
 
+This section guides you through submitting a feature request for CoronaTracker, including completely new features or minor improvements to existing functionality. Feature requests are tracked as [Github Issues](https://guides.github.com/features/issues/) and when creating a new issue you will choose from a template that gives you guidelines on what information to provide.
 
+Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
+
+__Before creating a feature request__, please __search the ISSUES__ to see if the feature has already been requested. If it has __and the issue is still open__, add a comment to the existing issue instead of opening a new one.
+
+> __Note:__ If you find a __Closed__ issue that seems like it is the same thing that you are experiencing, __open a new issue__ and include a link to the closed issue in the body of your new one.
+
+__When you are creating a feature request__, please include as many details as possible and fill out the required issue template. The information it asks for helps us resolve issues faster. Use the outline in the issue template to explain the feature and include additional details for maintainers.
 
 ### Contributing Code
 
