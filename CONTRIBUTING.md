@@ -87,6 +87,8 @@ e.g. `git add README.md` or `git add -A` for all changed files
 e.g. `git commit -m "update table of contents in readme"`
 _Note: more information on [writing a good commit message](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) can be found in the linked article_
 
+> __Pro tip:__ If you prefer to [use SSH on Github](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh), remember to update the links above to the SSH versions!
+
 ___When the changes are complete and you are ready to submit them to our project__, [squash the commits](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing#squashing) using [git rebase](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing#rebasing).
 e.g. `git rebase -i` which brings up your text editor with a reference to your recent commits (X and Y below)
 ```
