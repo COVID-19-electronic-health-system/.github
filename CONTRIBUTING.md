@@ -155,3 +155,9 @@ __Write commit messages in the imperative__, using "fix bug" and not "fixed bug"
 📖 Material-UI has great documentation. There are a lot of examples and answers to many questions you may face from the community. You also can ask for help via Discord in the #front-end chat.
 
 ## Getting Support
+
+__We are here to help!__ If you have questions or run into issues, please reach out to us on [our Discord server]().
+
+We also have some [support documentation]() on common commands, the general workflow, and a list of very useful resources covering each topic above.
+
+_If you made it to the end of this document, thank you, and we look forward to working with you and seeing your submissions!!_
