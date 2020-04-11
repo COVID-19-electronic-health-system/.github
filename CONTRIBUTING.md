@@ -4,6 +4,7 @@
 
 - [ ] add TOC
 - [ ] check for blank links ()
+- [ ] check repo vs respository
 
 ## About the Project
 
@@ -100,6 +101,22 @@ __When the changes are complete and you are ready to submit them to our project_
 _Note: the `-u` is only required when first pushing a new branch to the origin (your fork)._
 11. On github, [submit the pull request (PR)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the upstream repository when changes are complete.
 12. Follow all of the instructions in the [Pull Request Template]().
+
+### Staying Up to Date
+
+__It is important to always work from the most up to date code in our repository.__ Before making any changes, always be sure that your local repository contains the most recent changes from the upstream repository (our project).
+
+To update your local repository, follow the steps below.
+
+1. Check what branch you are currently working on.
+`git status`
+2. Check out the master branch of your local repository.
+`git checkout master`
+3. Fetch changes from the upstream master repository (ours).
+`git fetch upstream master`
+4. Rebase the changes from the upstream master respository into your local repository.
+`git rebase upstream/master`
+5. Check out a new branch to make and submit changes, following the procedures in [Contributing Code](#contributing-code) starting from Step 5.
 
 ## Style Guides
 
