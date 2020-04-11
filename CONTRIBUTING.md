@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-__INSERT TOC__
+- [ ] add TOC
+- [ ] check for blank links ()
 
 ## About the Project
 
@@ -41,7 +42,7 @@ Following these guidelines helps maintainers and the community understand your r
 
 __Before creating a bug report__, please check the list below as you might find out that you don't need to create one.
 
-1. __Check the README__ for a list of common questions, abstracts, concerns, etc.
+- __Check the README__ for a list of common questions, abstracts, concerns, etc.
 - __Search the ISSUES__ to see if the problem has already been reported. If it has __and the issue is still open__, add a comment to the existing issue instead of opening a new one.
 
 > __Note:__ If you find a __Closed__ issue that seems like it is the same thing that you are experiencing, __open a new issue__ and include a link to the closed issue in the body of your new one.
@@ -78,47 +79,27 @@ Mac/Linux: `cd ./Corona-tracker`
 Windows: `cd .\Corona-tracker`
 4. [Add a remote](https://help.github.com/en/github/using-git/adding-a-remote) link to our project repository in order to track changes.
 e.g. `git remote add upstream https://github.com/COVID-19-electronic-health-system/Corona-tracker.git`
-5. [Create and checkout new branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) in your local project to start making changes.
-e.g. `git checkout -b <branch-name>`
-_Note: the `-b` is required when first creating the branch (combines `git checkout` and `git branch`)_
-6. Make changes in your local project, including adding files or updating existing code.
-7. Add the changed files and create a commit message describing the changes. __Repeat this process for all changes.__
-e.g. `git add README.md` or `git add -A` for all changed files
-e.g. `git commit -m "update table of contents in readme"`
-_Note: more information on [writing a good commit message](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) can be found in the linked article_
 
 > __Pro tip:__ If you prefer to [use SSH on Github](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh), remember to update the links above to the SSH versions!
 
-___When the changes are complete and you are ready to submit them to our project__, [squash the commits](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing#squashing) using [git rebase](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing#rebasing).
-e.g. `git rebase -i` which brings up your text editor with a reference to your recent commits (X and Y below)
-```
-pick 7de252c X
-pick 02e5bd1 Y
+5. [Create and checkout new branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) in your local project to start making changes.
+e.g. `git checkout -b <branch-name>`
+_Note: the `-b` is only required when first creating the branch (combines `git checkout` and `git branch`)_
+6. Make changes in your local project, including adding files or updating existing code.
+7. Add the changed files and create a commit message describing the changes.
+e.g. `git add README.md` or `git add -A` for all changed files
+e.g. `git commit -m "update table of contents in readme"`
+_Note: more information on [writing a good commit message](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) can be found in the linked article_
+8. Continue with 6 and 7 above until all changes are complete.
 
-# Rebase 170afb6..02e5bd1 onto 170afb6 (2 command(s))
-#
-# Commands:
-# p, pick = use commit
-# r, reword = use commit, but edit the commit message
-# e, edit = use commit, but stop for amending
-# s, squash = use commit, but meld into previous commit
-# f, fixup = like "squash", but discard this commit's log message
-# x, exec = run command (the rest of the line) using shell
-# d, drop = remove commit
-#
-# These lines can be re-ordered; they are executed from top to bottom.
-#
-# If you remove a line here THAT COMMIT WILL BE LOST.
-#
-# However, if you remove everything, the rebase will be aborted.
-#
-# Note that empty commits are commented out
-```
-_Note: Squashing your commits means reducing all your local commits to one single commit that will be placed in our repo's git history. This keeps our history clean and easy to read._
-9. first push the changes to the origin repository on Github (your fork).
+__When the changes are complete and you are ready to submit them to our project__, please follow the additional steps below.
+
+9. Check that all of your submissions follow the relevant [Style Guides](#style-guides).
+10. Push the changes to the origin repository on Github (your fork).
 `git push -u origin <branch-name>`
-_Note: the `-u` is required when first pushing a new branch to the origin (your fork)._
-8. On github, [submit the pull request (PR)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the upstream repository when changes are complete.
+_Note: the `-u` is only required when first pushing a new branch to the origin (your fork)._
+11. On github, [submit the pull request (PR)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the upstream repository when changes are complete.
+12. Follow all of the instructions in the [Pull Request Template]().
 
 ## Style Guides
 
