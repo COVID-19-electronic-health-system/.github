@@ -2,9 +2,12 @@
 
 ## TODO
 
-- [ ] check for blank links ()
+- [ ] check for blank links: ()
 - [ ] check repo vs respository
-- [ ] consider adding front end / back end
+- [ ] review front end / back end instructions
+    - idea here was to split from main contrib file for simplicity (and to make universal across all repos)
+    - if someone is working on front end of CoronaTracker, would visit /client README for further instruction
+    - if someone is working on back end of CoronaTracker, would visit /server README for further instruction
 
 ## Table of Contents
 
@@ -106,21 +109,22 @@ e.g. `git remote add upstream https://github.com/COVID-19-electronic-health-syst
 5. [Create and checkout new branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) in your local project to start making changes.
 e.g. `git checkout -b <branch-name>`
 _Note: the `-b` is only required when first creating the branch (combines `git checkout` and `git branch`)_
-6. Make changes in your local project, including adding files or updating existing code.
-7. Add the changed files and create a commit message describing the changes.
+6. If working on the Corona-tracker app specifically, review and follow the documentation for the [Front End Configuration]() or [Back End Configuration]() depending on the type of changes you intend to make.
+7. Make changes in your local project, including adding files or updating existing code.
+8. Add the changed files and create a commit message describing the changes.
 e.g. `git add README.md` or `git add -A` for all changed files
 e.g. `git commit -m "update table of contents in readme"`
 _Note: more information on [writing a good commit message](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) can be found in the linked article_
-8. Continue with 6 and 7 above until all changes are complete.
+9. Continue with 6 and 7 above until all changes are complete.
 
 __When the changes are complete and you are ready to submit them to our project__, please follow the additional steps below.
 
-9. Check that all of your submissions follow the relevant [Style Guides](#style-guides).
-10. Push the changes to the origin repository on Github (your fork).
+10. Check that all of your submissions follow the relevant [Style Guides](#style-guides).
+11. Push the changes to the origin repository on Github (your fork).
 `git push -u origin <branch-name>`
 _Note: the `-u` is only required when first pushing a new branch to the origin (your fork)._
-11. On github, [submit the pull request (PR)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the upstream repository when changes are complete.
-12. Follow all of the instructions in the [Pull Request Template]().
+12. On github, [submit the pull request (PR)](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to the upstream repository when changes are complete.
+13. Follow all of the instructions in the [Pull Request Template]().
 
 ### Staying Up to Date
 
