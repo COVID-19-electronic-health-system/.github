@@ -10,65 +10,69 @@
 
 [Join our Discord Server](https://discord.gg/pPERUuv)
 
+### Anthony A (Project Organizer)
+
+Also known as "The Dude", "His Dudeness", "Duder" or "El Duderino" if you're not into the whole brevity thing.
+
+Front End Code, Documentation, and booking meetings with experts
+
+Open to peer program any issue or bugs!
+
+- Github: @tesla809
+- Discord: @Anthony A.
+
 ### Carter Klein: (CTO / Back End Lead)
 
-back end, front end, systems architecture
+Back End, Front End, Systems Architecture
 
-Github: @Carter Klein
-Discord: @Carter Klein
+- Github: @Carter Klein
+- Discord: @Carter Klein
 
 ### Brian H. Hough (UI/UX Lead)
 
-design, social media marketing, front end
+Front End, Design, Social Media Marketing
 
-Github: @Brian H. Hough
-Discord: @InterstellarX
+- Github: @Brian H. Hough
+- Discord: @InterstellarX
 
-### Anthony A (Project Admin)
+### Akil Hylton (Hardware Lead)
 
-front end code, documentation and booking meetings with experts
-
-Open to peer program any issue or bugs!
-
-Github: @tesla809
-Discord: @Anthony A.
-
-### Akil Hylton
-
-front end code, documentation, has machine learning experience
+Front End, Documentation, Machine Learning
 
 Open to peer program any issue or bugs!
 
-Github: @akilhylton
-Discord: @Akil Hylton
+- Github: @akilhylton
+- Discord: @Akil Hylton
 
-### Nick G (Analytics Lead)
+### Nick Giangre (Analytics Lead)
 
-advising on data model, analytics, data science
+Data Models, Analytics, Data Science
 
 See [analytics thread / issue.](https://github.com/COVID-19-electronic-health-system/Corona-tracker/issues/51)
 
-Github: @ngiangre
-Discord: @NickG
+- Github: @ngiangre
+- Discord: @NickG
 
 ### Salvatore Volpe (Translations Lead)
 
-translations, analytics
+Translations, Analytics
 
-Github: @salvolpe
-Discord: @laseplov
+- Github: @salvolpe
+- Discord: @laseplov
 
 ### Luke Lin (Discord Lead)
 
-Managing discord, discord roles, front end, translations
+Managing Discord, Discord Roles, Front End, Translations
 
-Github: @lukelin1991
-Discord: @kirbypooh
+- Github: @lukelin1991
+- Discord: @kirbypooh
 
-### Jason Schrader: Documentation Lead
+### Jason Schrader (Documentation Lead)
 
+Documentation
 
-
+- Github: @whoabuddy
+- Discord: @whoabuddy
 
 ## CoronaTracker Resources
 
