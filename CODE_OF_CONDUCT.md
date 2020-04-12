@@ -1,4 +1,4 @@
-# Code of Conduct for Corona-tracker
+# Code of Conduct for CoronaTracker
 
 ## Our Pledge
 
