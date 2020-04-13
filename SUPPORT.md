@@ -96,22 +96,17 @@ Documentation, Documentation, Documentation
 
 ### Repositories
 
-.github
-Community health documentation
+__[Corona-tracker:]()__ CoronaTracker is an easy-to-use and accessible progressive web application that helps you monitor your wellness and stay informed during the COVID-19 crisis, designed by an open-source community invested in public health.
 
-Corona-tracker
-A web application promoting accurate COVID-19 guidelines and tracking user symptoms
+__[Coronalert:]()__ CoronaTracker notification service
 
-Coronalert
-CoronaTracker notification service
+__[Coronalytics:]()__ CoronaTracker analytics service
 
-Coronalytics
+__[Coronadvise:]()__ CoronaTracker education service
 
-Coronadvise
-Our COVID-19 educational service
+__[.github](https://github.com/COVID-19-electronic-health-system/.github):__ Community health files for the [@COVID-19-electronic-health-system](https://github.com/COVID-19-electronic-health-system) organization.
 
-PanFLUte
-An open source spirometer for everyone.
+__[PanFLUte:](https://github.com/COVID-19-electronic-health-system/PanFLUte)__ An open source spirometer for everyone.
 
 ### Technology Stack
 
