@@ -119,11 +119,9 @@ TODO: Include schematic architecture from pitch deck (per [Iss#453](https://gith
 
 ## Blockstack Resources
 
+Blockstack is a decentralized computing platform that promotes "privacy by design". We chose to use Blockstack so that users own their health data and their identity.
 
-
-a) how it's used,
-b) definitions for terms and tools (Gaia, Radiks, Secret Key, etc.) or links to them
-c) relevant links to get started
+To learn more about Blockstack, [visit their website](https://blockstack.org/about), view the [Blockstack FAQs](https://docs.blockstack.org/faqs/allfaqs), or view the [technical whitepaper](https://blockstack.org/whitepaper.pdf).
 
 ## Common Commands
 
