@@ -1,10 +1,28 @@
 # Support for CoronaTracker
 
-## TODO
-
-- [ ] insert TOC
-
 ## Table of Contents
+
+<!-- TOC -->
+
+- [Project Leads and Contact Info](#project-leads-and-contact-info)
+  - [Anthony A (Project Organizer)](#anthony-a-project-organizer)
+  - [Carter Klein: (CTO / Back End Lead)](#carter-klein-cto--back-end-lead)
+  - [Brian H. Hough (UI/UX Lead)](#brian-h-hough-uiux-lead)
+  - [Akil Hylton (Hardware Lead)](#akil-hylton-hardware-lead)
+  - [Nick Giangre (Analytics Lead)](#nick-giangre-analytics-lead)
+  - [Salvatore Volpe (Translations Lead)](#salvatore-volpe-translations-lead)
+  - [Luke Lin (Discord Lead)](#luke-lin-discord-lead)
+  - [Jason Schrader (Documentation Lead)](#jason-schrader-documentation-lead)
+- [CoronaTracker Resources](#coronatracker-resources)
+  - [Repositories](#repositories)
+  - [Technology Stack](#technology-stack)
+- [Blockstack Resources](#blockstack-resources)
+- [Common Commands](#common-commands)
+  - [Git](#git)
+  - [Yarn](#yarn)
+- [General Resources and Links](#general-resources-and-links)
+
+<!-- /TOC -->
 
 ## Project Leads and Contact Info
 
@@ -69,7 +87,7 @@ Managing Discord, Discord Roles, Front End, Translations
 
 ### Jason Schrader (Documentation Lead)
 
-Documentation
+Documentation, Documentation, Documentation
 
 - Github: @whoabuddy
 - Discord: @whoabuddy
