@@ -115,9 +115,11 @@ __[PanFLUte:](https://github.com/COVID-19-electronic-health-system/PanFLUte)__ A
 - Database: [Gaia](https://github.com/blockstack/gaia)
 - Deployment: [AWS](https://aws.amazon.com/)
 
-Include schematic architecture from pitch deck (per [Iss#453](https://github.com/COVID-19-electronic-health-system/Corona-tracker/issues/453))
+TODO: Include schematic architecture from pitch deck (per [Iss#453](https://github.com/COVID-19-electronic-health-system/Corona-tracker/issues/453))
 
 ## Blockstack Resources
+
+
 
 a) how it's used,
 b) definitions for terms and tools (Gaia, Radiks, Secret Key, etc.) or links to them
