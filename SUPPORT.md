@@ -188,7 +188,33 @@ __Delete Branch__
 
 ### Yarn
 
+[Full list of yarn commands](https://classic.yarnpkg.com/en/docs/cli/)
 
+
+`yarn install`
+- Install all node modules
+- Similar to `npm i`
+- [More Info](https://classic.yarnpkg.com/en/docs/cli/install)
+
+`yarn add`
+- Installs a package and any packages that it depends on
+- Similar to `npm install <package-name>`
+- [More Info](https://classic.yarnpkg.com/en/docs/cli/add)
+
+`yarn remove`
+- Removes an unused package from your current package.json
+- Similar to `npm uninstall <package-name>`
+- [More Info](https://classic.yarnpkg.com/en/docs/cli/remove)
+
+`yarn init`
+- Initializes the development of a package.
+- Similar to `npm init`
+- [More Info](https://classic.yarnpkg.com/en/docs/cli/init)
+
+`yarn upgrade`
+- Upgrades packages to their latest version based on the specified range
+- Similar to `npm update <package-name>@<verision>`
+- [More Info](https://classic.yarnpkg.com/en/docs/cli/upgrade)
 
 ## General Resources and Links
 
@@ -239,3 +265,10 @@ You should use rebase only for squashing YOUR local commits prior to a pull requ
 Read this EXCELLENT article on [Rebase as an Alternative to Merge](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/rebase#start) from git-tower.
 
 [See Beginner's guide to rebasing and squashing.](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing)
+
+- [Git tower- Learn Version Control with Git:
+A step-by-step course for the complete beginner](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+- [Git Manual](https://git-scm.com/doc)
+- [Dangit, git!](https://dangitgit.com/) with real problems and solutions.
+- [GitHub Standard Fork & Pull Request Workflow (Chaser324)](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+- [Digital Ocean - How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
