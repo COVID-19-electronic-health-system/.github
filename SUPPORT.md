@@ -115,8 +115,6 @@ __[PanFLUte:](https://github.com/COVID-19-electronic-health-system/PanFLUte)__ A
 - Database: [Gaia](https://github.com/blockstack/gaia)
 - Deployment: [AWS](https://aws.amazon.com/)
 
-TODO: Include schematic architecture from pitch deck (per [Iss#453](https://github.com/COVID-19-electronic-health-system/Corona-tracker/issues/453))
-
 ## Blockstack Resources
 
 Blockstack is a decentralized computing platform that promotes "privacy by design". We chose to use Blockstack so that users own their health data and their identity.
