@@ -218,57 +218,61 @@ __Delete Branch__
 
 ## General Resources and Links
 
-Links to get started with AWS
-https://aws.amazon.com/getting-started/
-https://www.udemy.com/topic/aws-certification/
+### Amazon Web Services (AWS)
 
-Links to get started with MongoDB
-https://docs.mongodb.com/manual/tutorial/getting-started/
-https://www.udemy.com/course/mongodb-the-complete-developers-guide/
-https://www.pluralsight.com/search?q=aws
+- AWS: [Getting Started Resource Center](https://aws.amazon.com/getting-started/)
+- Udemy: [AWS Certification Courses](https://www.udemy.com/topic/aws-certification/)
+- PluralSight: [AWS Paths and Courses](https://www.pluralsight.com/search?q=aws)
 
-Links to MaterialUI
-https://material-ui.com/
+### MongoDB
 
-React
-[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
-https://www.pluralsight.com/paths/react
+- MongoDB: [Getting Started](https://docs.mongodb.com/manual/tutorial/getting-started/)
+- Udemy: [MongoDB Courses](https://www.udemy.com/topic/mongodb/)
+- PluralSight: [MongoDB Paths and Courses](https://www.pluralsight.com/search?q=mongodb)
 
-Jest
-https://jestjs.io/docs/en/getting-started.html
-https://www.pluralsight.com/courses/testing-react-applications-jest
+### Material UI
 
-Links to get started with GoLang
-https://golang.org/doc/install
+- Material UI: [Installation](https://material-ui.com/getting-started/installation/) and [Usage](https://material-ui.com/getting-started/usage/)
+- Material Design: [Color System](https://material.io/design/color/)
+- Material Design: [Accessibility](https://material.io/design/usability/accessibility.html)
+- Udemy: [Material UI Courses](https://www.udemy.com/topic/material-design/)
 
-Git/Github Info
-[Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+### React
 
-From git-tower:
-"In Git, the rebase command integrates changes from one branch into another. It is an alternative to the better known "merge" command.
+- Tutorial: [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+- Udemy: [React Courses](https://www.udemy.com/topic/react/)
+- PluralSight: [React Paths and Courses](https://www.pluralsight.com/search?q=react)
 
-Most visibly, rebase differs from merge by rewriting the commit history in order to produce a straight, linear succession of commits."
+### Jest
 
-See [What is a rebase in Git?](https://www.git-tower.com/learn/git/glossary/rebase)
+- Jest: [Getting Started](https://jestjs.io/docs/en/getting-started.html)
+- PluralSight: [Testing React Applications with Jest](https://www.pluralsight.com/courses/testing-react-applications-jest)
 
-[Overview of `rebase`.](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+### Golang
 
-[How to use `rebase`.](https://help.github.com/en/github/using-git/using-git-rebase-on-the-command-line)
+- Go: [Getting Started](https://golang.org/doc/install)
+- Udemy: [Go Programming Language Courses](https://www.udemy.com/topic/go-programming-language/)
+- PluralSight: [Go Paths and Courses](https://www.pluralsight.com/search?q=golang)
 
-Why do we prefer rebase versus merge?
-"Some people prefer to go without such automatic merge commits. Instead, they want the project's history to look as if it had evolved in a single, straight line. No indication remains that it had been split into multiple branches at some point."
+### Git / Github
 
-⚠️ 👀 **WARNING:**
-You should use rebase only for squashing YOUR local commits prior to a pull request. DO NOT ever to rebase commits that have already been published to master. This will rewrite our public project's history. This applies to maintainers of the project.
+__Git Resources__
 
-Read this EXCELLENT article on [Rebase as an Alternative to Merge](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/rebase#start) from git-tower.
+- [Git Command Reference](https://git-scm.com/doc)
+- Git Tower: [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
+- Git Tower: [What is a rebase in Git?](https://www.git-tower.com/learn/git/glossary/rebase)
+- Git Tower: [`rebase` as an alternative to `merge`](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/rebase#start)
+- Atlassian: [Overview of `rebase`](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+- Github Help: [How to use `rebase`](https://help.github.com/en/github/using-git/using-git-rebase-on-the-command-line)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Oh Shit, Git!?!](https://ohshitgit.com/) with real problems and solutions
 
-[See Beginner's guide to rebasing and squashing.](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing)
+> ⚠️ 👀 **WARNING:**
+> You should use rebase only for squashing YOUR local commits prior to a pull request. DO NOT ever to rebase commits that have already been published to master. This will rewrite our public project's history. This applies to maintainers of the project.
 
-- [Git tower- Learn Version Control with Git:
-A step-by-step course for the complete beginner](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
-- [Git Manual](https://git-scm.com/doc)
-- [Dangit, git!](https://dangitgit.com/) with real problems and solutions.
+__Github Resources__
+
+- Github Guides: [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 - [GitHub Standard Fork & Pull Request Workflow (Chaser324)](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
 - [Digital Ocean - How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+- Mozilla Servo: [Beginner's guide to rebasing and squashing](https://github.com/servo/servo/wiki/Beginner's-guide-to-rebasing-and-squashing)
