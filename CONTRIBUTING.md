@@ -47,6 +47,10 @@ The typical agenda is:
 
 If you have any questions or need any additional information, please discuss it with the team [on our Discord server.](https://discord.gg/pPERUuv)
 
+### Project Leads and Contact Info
+
+More information can be found in the [SUPPORT.md file](./SUPPORT.md#project-leads-and-contact-info).
+
 ## How to Contribute
 
 ### Reporting Bugs
