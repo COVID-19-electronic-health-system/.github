@@ -21,6 +21,13 @@
   - [Git](#git)
   - [Yarn](#yarn)
 - [General Resources and Links](#general-resources-and-links)
+  - [Amazon Web Services (AWS)](#amazon-web-services-aws)
+  - [MongoDB](#mongodb)
+  - [Material UI](#material-ui)
+  - [React](#react)
+  - [Jest](#jest)
+  - [Golang](#golang)
+  - [Git / Github](#git--github)
 
 <!-- /TOC -->
 
