@@ -1,14 +1,5 @@
 # Contributing to CoronaTracker
 
-## TODO
-
-- [ ] check for blank links: ()
-- [ ] check repo vs respository
-- [ ] review front end / back end instructions
-    - idea here was to split from main contrib file for simplicity (and to make universal across all repos)
-    - if someone is working on front end of CoronaTracker, would visit /client README for further instruction
-    - if someone is working on back end of CoronaTracker, would visit /server README for further instruction
-
 ## Table of Contents
 
 <!-- TOC -->
@@ -54,7 +45,7 @@ The typical agenda is:
 3. Discuss project deadlines
 4. Discuss action items for current goals
 
-If you have any questions or need any additional information, please discuss it with the team [on our Discord server.]()
+If you have any questions or need any additional information, please discuss it with the team [on our Discord server.](https://discord.gg/pPERUuv)
 
 ## How to Contribute
 
@@ -89,7 +80,7 @@ __When you are creating a feature request__, please include as many details as p
 
 This section describes how our workflow operates so that you can contribute code in a way that scales with a growing team and product.
 
-This represents a standard way that many open source projects operate, and more information including terminology and helpful commands can be found in the [SUPPORT.md]() file.
+This represents a standard way that many open source projects operate, and more information including terminology and helpful commands can be found in the [SUPPORT.md](./SUPPORT.md) file.
 
 > ⚠️ __Please do not clone directly from our main repository.__ This will point your local repo's [origin](https://www.git-tower.com/learn/git/glossary/origin) to our main repo, and you will not have write access. Doing so will eventually cause an error when attempting to push your changes.
 
@@ -109,7 +100,7 @@ e.g. `git remote add upstream https://github.com/COVID-19-electronic-health-syst
 5. [Create and checkout new branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches) in your local project to start making changes.
 e.g. `git checkout -b <branch-name>`
 _Note: the `-b` is only required when first creating the branch (combines `git checkout` and `git branch`)_
-6. If working on the Corona-tracker app specifically, review and follow the documentation for the [Front End Configuration]() or [Back End Configuration]() depending on the type of changes you intend to make.
+6. If working on the CoronaTracker app specifically, review and follow the documentation for the [Front End Configuration](https://github.com/COVID-19-electronic-health-system/Corona-tracker/tree/master/client) or [Back End Configuration](https://github.com/COVID-19-electronic-health-system/Corona-tracker/tree/master/server) depending on the type of changes you intend to make.
 7. Make changes in your local project, including adding files or updating existing code.
 8. Add the changed files and create a commit message describing the changes.
 e.g. `git add README.md` or `git add -A` for all changed files
