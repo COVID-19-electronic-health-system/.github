@@ -44,6 +44,7 @@ The typical agenda is:
 2. Discuss project roadmap
 3. Discuss project deadlines
 4. Discuss action items for current goals
+5. Time for community feedback and questions
 
 If you have any questions or need any additional information, please discuss it with the team [on our Discord server.](https://discord.gg/pPERUuv)
 
@@ -79,6 +80,12 @@ __Before creating a feature request__, please __search the ISSUES__ to see if th
 > __Note:__ If you find a __Closed__ issue that seems like it is the same thing that you are experiencing, __open a new issue__ and include a link to the closed issue in the body of your new one.
 
 __When you are creating a feature request__, please include as many details as possible and fill out the required issue template. The information it asks for helps us resolve issues faster. Use the outline in the issue template to explain the feature and include additional details for maintainers.
+
+### Picking up an Issue
+
+If you wish to contribute to an issue, look through the Issues tab of the related repository and find one labeled __Help Wanted.__ These are issues that we are actively looking for participation in.
+
+To pick up an issue, add a comment saying "I'm on it", and the Help Wanted label will be removed and you will be assigned to the issue.
 
 ### Contributing Code
 
@@ -158,8 +165,6 @@ __Write commit messages in the imperative__, using "fix bug" and not "fixed bug"
 `git commit -m "update contributing.md with new sections"`
 
 ### Front End Style Guide
-
-📝 Use Material-UI to build and style components.
 
 📝 When styling, use Material-UI styling APIs.
 

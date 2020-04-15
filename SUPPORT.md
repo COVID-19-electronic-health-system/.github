@@ -119,7 +119,7 @@ __[PanFLUte:](https://github.com/COVID-19-electronic-health-system/PanFLUte)__ A
 
 - Frontend: [React](https://github.com/facebook/react)
 - Backend: [Blockstack](https://blockstack.org/about)
-- Database: [Gaia](https://github.com/blockstack/gaia)
+- Database: [Gaia](https://github.com/blockstack/gaia) and [MongoDB](https://www.mongodb.com/cloud/atlas)
 - Deployment: [AWS](https://aws.amazon.com/)
 
 ## Blockstack Resources
@@ -136,14 +136,19 @@ __Information__
 
 - Show the working tree status
 `git status`
-- show commit logs
+- show the current HEAD and its ancestry
 `git log`
-- show commit logs with formatting
+- show the current HEAD and its ancestry with formatting
 `git log --pretty=format:"%h %s" --graph`
+- show an ordered list of the commits that HEAD has pointed to (a local undo history for your repo - [reference](https://stackoverflow.com/questions/17857723/whats-the-difference-between-git-reflog-and-log))
+`git reflog`
 - show all branches
 `git branch -a`
 - list remote repositories
 `git remote -v`
+- show line-by-line changes in your branch compared to master
+`git diff`
+
 
 __Make Changes__
 
