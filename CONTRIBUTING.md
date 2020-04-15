@@ -4,12 +4,15 @@
 
 <!-- TOC -->
 
+
 - [About the Project](#about-the-project)
   - [Project Values](#project-values)
   - [Townhall Meetings](#townhall-meetings)
+  - [Project Leads and Contact Info](#project-leads-and-contact-info)
 - [How to Contribute](#how-to-contribute)
   - [Reporting Bugs](#reporting-bugs)
   - [Suggesting Features / Enhancements](#suggesting-features--enhancements)
+  - [Picking up an Issue](#picking-up-an-issue)
   - [Contributing Code](#contributing-code)
   - [Staying Up to Date](#staying-up-to-date)
 - [Style Guides](#style-guides)
@@ -180,8 +183,8 @@ __Write commit messages in the imperative__, using "fix bug" and not "fixed bug"
 
 ## Getting Support
 
-__We are here to help!__ If you have questions or run into issues, please reach out to us on [our Discord server]().
+__We are here to help!__ If you have questions or run into issues, please reach out to us on [our Discord server](https://discord.gg/pPERUuv).
 
-We also have some [support documentation]() on common commands, common terminology, the general workflow, and a list of useful resources covering each topic above.
+We also have some [support documentation](SUPPORT.md) on common commands, common terminology, the general workflow, and a list of useful resources covering each topic above.
 
 _If you made it to the end of this document, thank you, and we look forward to working with you and seeing your submissions!!_
