@@ -249,11 +249,40 @@ __Delete Branch__
 - Material Design: [Accessibility](https://material.io/design/usability/accessibility.html)
 - Udemy: [Material UI Courses](https://www.udemy.com/topic/material-design/)
 
+### Styled-Components
+
+Use the best bits of ES6 and CSS to style your apps without stress 💅. Useful to containerize our apps style along with our components.
+
+- [Documentation](https://styled-components.com/docs)
+
 ### React
 
 - Tutorial: [Intro to React](https://reactjs.org/tutorial/tutorial.html)
 - Udemy: [React Courses](https://www.udemy.com/topic/react/)
 - PluralSight: [React Paths and Courses](https://www.pluralsight.com/search?q=react)
+
+__React-Router-Dom__
+
+DOM bindings for React Router. Used to change views on client side.
+
+- Tutorial: [React Training / React Router Quick Start](https://reacttraining.com/react-router/web/guides/quick-start)
+
+### Redux
+
+- Tutorial: [Getting Started with Redux](https://redux.js.org/introduction/getting-started)
+- Udemy: [Redux Framework Courses](https://www.udemy.com/topic/redux-framework/)
+- Pluralsight: [Redux Paths and Courses](https://www.pluralsight.com/search?q=redux)
+
+__Redux-Thunk__
+
+Used to manipulate state before calling dispatch() to Redux's state
+- Documentation: [reduxjs/redux-thunk repo](https://github.com/reduxjs/redux-thunk)
+
+### Axios
+
+Promise based HTTP client for the browser and node.js
+
+- [Documentation](https://github.com/axios/axios)
 
 ### Jest
 
