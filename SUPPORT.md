@@ -103,17 +103,17 @@ Documentation, Documentation, Documentation
 
 ### Repositories
 
-__[Corona-tracker:](https://github.com/COVID-19-electronic-health-system/Corona-tracker)__ CoronaTracker is an easy-to-use and accessible progressive web application that helps you monitor your wellness and stay informed during the COVID-19 crisis, designed by an open-source community invested in public health.
+**[Corona-tracker:](https://github.com/COVID-19-electronic-health-system/Corona-tracker)** CoronaTracker is an easy-to-use and accessible progressive web application that helps you monitor your wellness and stay informed during the COVID-19 crisis, designed by an open-source community invested in public health.
 
-__[Coronalert:](https://github.com/COVID-19-electronic-health-system/Coronalert)__ CoronaTracker notification service
+**[Coronalert:](https://github.com/COVID-19-electronic-health-system/Coronalert)** CoronaTracker notification service
 
-__[Coronalytics:](https://github.com/COVID-19-electronic-health-system/Coronalytics)__ CoronaTracker analytics service
+**[Coronalytics:](https://github.com/COVID-19-electronic-health-system/Coronalytics)** CoronaTracker analytics service
 
-__[Coronadvise:](https://github.com/COVID-19-electronic-health-system/Coronadvise)__ CoronaTracker education service
+**[Coronadvise:](https://github.com/COVID-19-electronic-health-system/Coronadvise)** CoronaTracker education service
 
-__[.github](https://github.com/COVID-19-electronic-health-system/.github):__ Community health files for the [@COVID-19-electronic-health-system](https://github.com/COVID-19-electronic-health-system) organization.
+**[.github](https://github.com/COVID-19-electronic-health-system/.github):** Community health files for the [@COVID-19-electronic-health-system](https://github.com/COVID-19-electronic-health-system) organization.
 
-__[PanFLUte:](https://github.com/COVID-19-electronic-health-system/PanFLUte)__ An open source spirometer for everyone.
+**[PanFLUte:](https://github.com/COVID-19-electronic-health-system/PanFLUte)** An open source spirometer for everyone.
 
 ### Technology Stack
 
@@ -132,98 +132,101 @@ To learn more about Blockstack, [visit their website](https://blockstack.org/abo
 
 ### Git
 
-__Information__
+**Information**
 
 - Show the working tree status
-`git status`
+  `git status`
 - show the current HEAD and its ancestry
-`git log`
+  `git log`
 - show the current HEAD and its ancestry with formatting
-`git log --pretty=format:"%h %s" --graph`
+  `git log --pretty=format:"%h %s" --graph`
 - show an ordered list of the commits that HEAD has pointed to (a local undo history for your repo - [reference](https://stackoverflow.com/questions/17857723/whats-the-difference-between-git-reflog-and-log))
-`git reflog`
+  `git reflog`
 - show all branches
-`git branch -a`
+  `git branch -a`
 - list remote repositories
-`git remote -v`
+  `git remote -v`
 - show line-by-line changes in your branch compared to master
-`git diff`
+  `git diff`
 
-
-__Make Changes__
+**Make Changes**
 
 - Create new branch to make changes
-`git checkout -b <branch>`
+  `git checkout -b <branch>`
 - Checkout branch to make changes
-`git checkout <branch>`
+  `git checkout <branch>`
 - Change file name
-`git mv <old-file> <new-file>`
+  `git mv <old-file> <new-file>`
 - Delete file
-`git rm <file>`
+  `git rm <file>`
 
-__Commit Changes__
+**Commit Changes**
 
 - Make changes to the file
-`atom <filename>` _(or text editor of your choice)_
+  `atom <filename>` _(or text editor of your choice)_
 - Add a single file with changes
-`git add <filename>`
+  `git add <filename>`
 - Add all files with changes
-`git add -A`
+  `git add -A`
 - Commit the change with a message
-`git commit -m "Commit Message"`
+  `git commit -m "Commit Message"`
 - Add all files and commit the change in one command
-`git commit -am "Commit Message"`
+  `git commit -am "Commit Message"`
 - Modify last commit message
-`git commit --amend`
+  `git commit --amend`
 - Push change to repository (on Github)
-`git push origin`
+  `git push origin`
 
-__Update the Repo__
+**Update the Repo**
 
 - Setting an upstream repository
-`git remote add upstream <clone-link>`
+  `git remote add upstream <clone-link>`
 - Check out the master branch
-`git checkout master`
+  `git checkout master`
 - Fetch branch from the upstream repository
-`git fetch upstream <branch>`
+  `git fetch upstream <branch>`
 - Rebase changes from the upstream repository
-`git rebase upstream/<branch>`
+  `git rebase upstream/<branch>`
 - Push changes to the origin repository
-`git push origin`
+  `git push origin`
 
-__Delete Branch__
+**Delete Branch**
 
 - Delete the branch from origin
-`git push origin -d <branch>`
+  `git push origin -d <branch>`
 - Delete the branch from local
-`git branch -d <branch>`
+  `git branch -d <branch>`
 
 ### Yarn
 
 [Full list of yarn commands](https://classic.yarnpkg.com/en/docs/cli/)
 
-
 `yarn install`
+
 - Install all node modules
 - Similar to `npm i`
 - [More Info](https://classic.yarnpkg.com/en/docs/cli/install)
 
 `yarn add`
+
 - Installs a package and any packages that it depends on
 - Similar to `npm install <package-name>`
 - [More Info](https://classic.yarnpkg.com/en/docs/cli/add)
 
 `yarn remove`
+
 - Removes an unused package from your current package.json
 - Similar to `npm uninstall <package-name>`
 - [More Info](https://classic.yarnpkg.com/en/docs/cli/remove)
 
 `yarn init`
+
 - Initializes the development of a package.
 - Similar to `npm init`
 - [More Info](https://classic.yarnpkg.com/en/docs/cli/init)
 
 `yarn upgrade`
+
 - Upgrades packages to their latest version based on the specified range
 - Similar to `npm update <package-name>@<verision>`
 - [More Info](https://classic.yarnpkg.com/en/docs/cli/upgrade)
@@ -261,7 +264,7 @@ Use the best bits of ES6 and CSS to style your apps without stress 💅. Useful 
 - Udemy: [React Courses](https://www.udemy.com/topic/react/)
 - PluralSight: [React Paths and Courses](https://www.pluralsight.com/search?q=react)
 
-__React-Router-Dom__
+**React-Router-Dom**
 
 DOM bindings for React Router. Used to change views on client side.
 
@@ -273,9 +276,10 @@ DOM bindings for React Router. Used to change views on client side.
 - Udemy: [Redux Framework Courses](https://www.udemy.com/topic/redux-framework/)
 - Pluralsight: [Redux Paths and Courses](https://www.pluralsight.com/search?q=redux)
 
-__Redux-Thunk__
+**Redux-Thunk**
 
 Used to manipulate state before calling dispatch() to Redux's state
+
 - Documentation: [reduxjs/redux-thunk repo](https://github.com/reduxjs/redux-thunk)
 
 ### Axios
@@ -297,7 +301,7 @@ Promise based HTTP client for the browser and node.js
 
 ### Git / Github
 
-__Git Resources__
+**Git Resources**
 
 - [Git Command Reference](https://git-scm.com/doc)
 - Git Tower: [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)
@@ -309,9 +313,9 @@ __Git Resources__
 - [Oh Shit, Git!?!](https://ohshitgit.com/) with real problems and solutions
 
 > ⚠️ 👀 **WARNING:**
-> You should use rebase only for squashing YOUR local commits prior to a pull request. DO NOT ever to rebase commits that have already been published to master. This will rewrite our public project's history. This applies to maintainers of the project.
+> You should use rebase only for squashing YOUR local commits prior to a pull request. DO NOT ever rebase commits that have already been published to master. This will rewrite our public project's history. This applies to maintainers of the project.
 
-__Github Resources__
+**Github Resources**
 
 - Github Guides: [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 - [GitHub Standard Fork & Pull Request Workflow (Chaser324)](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
