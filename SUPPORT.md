@@ -309,6 +309,7 @@ Promise based HTTP client for the browser and node.js
 - Git Tower: [`rebase` as an alternative to `merge`](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/rebase#start)
 - Atlassian: [Overview of `rebase`](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 - Github Help: [How to use `rebase`](https://help.github.com/en/github/using-git/using-git-rebase-on-the-command-line)
+- [Learning Git Branching](https://learngitbranching.js.org/?locale=en_US)
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Oh Shit, Git!?!](https://ohshitgit.com/) with real problems and solutions
 
