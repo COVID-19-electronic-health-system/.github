@@ -1,6 +1,6 @@
 # .github
 
-[Community Health Files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [@COVID-19-electronic-health-system](https://github.com/COVID-19-electronic-health-system) organization.
+[Community Health Files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [@COVID-19-electronic-health-system](https://github.com/COVID-19-electronic-health-system) organization and repositories.
 
 ## Licensing
 

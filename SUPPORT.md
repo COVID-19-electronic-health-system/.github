@@ -314,7 +314,7 @@ Promise based HTTP client for the browser and node.js
 - [Oh Shit, Git!?!](https://ohshitgit.com/) with real problems and solutions
 
 > ⚠️ 👀 **WARNING:**
-> You should use rebase only for squashing YOUR local commits prior to a pull request. DO NOT ever to rebase commits that have already been published to master. This will rewrite our public project's history. This applies to maintainers of the project.
+> You should use rebase only for squashing YOUR local commits prior to a pull request. DO NOT ever rebase commits that have already been published to master. This will rewrite our public project's history. This applies to maintainers of the project.
 
 **Github Resources**
 
