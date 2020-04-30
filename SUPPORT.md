@@ -21,21 +21,21 @@ Front End Code, Documentation, and booking meetings with experts
 Open to peer program any issue or bugs!
 
 - Github: @tesla809
-- Discord: @Anthony A.
+- Discord: `@Anthony A.`
 
 ### Carter Klein: (CTO / Back End Lead)
 
 Back End, Front End, Systems Architecture
 
-- Github: @Carter Klein
-- Discord: @Carter Klein
+- Github: @SomeMoosery
+- Discord: `@Carter Klein`
 
 ### Brian H. Hough (UI/UX Lead)
 
 Front End, Design, Social Media Marketing
 
 - Github: @Brian H. Hough
-- Discord: @InterstellarX
+- Discord: `@InterstellarX`
 
 ### Akil Hylton (Hardware Lead)
 
@@ -44,7 +44,7 @@ Front End, Documentation, Machine Learning
 Open to peer program any issue or bugs!
 
 - Github: @akilhylton
-- Discord: @Akil Hylton
+- Discord: `@Akil Hylton`
 
 ### Nick Giangreco (Analytics Lead)
 
@@ -53,14 +53,14 @@ Data Models, Analytics, Data Science
 See [analytics thread / issue.](https://github.com/COVID-19-electronic-health-system/Corona-tracker/issues/51)
 
 - Github: @ngiangre
-- Discord: @NickG
+- Discord: `@NickG`
 
 ### Salvatore Volpe (Translations Lead)
 
 Translations, Analytics
 
 - Github: @salvolpe
-- Discord: @laseplov
+- Discord: `@laseplov`
 
 ### Adham Abo Hasson (Front End Lead)
 
@@ -74,21 +74,21 @@ Front End
 Documentation, Documentation, Documentation
 
 - Github: @whoabuddy
-- Discord: @whoabuddy
+- Discord: `@whoabuddy`
 
 ### Austin Wu (Operations Lead)
 
 Front End and Technical Operations
 
 - Github: @awu556
-- Discord: @AWu
+- Discord: `@AWu`
 
 ### Luke Lin (Discord Lead)
 
 Managing Discord, Discord Roles, Front End, Translations
 
 - Github: @lukelin1991
-- Discord: @kirbypooh
+- Discord: `@kirbypooh`
 
 ## CoronaTracker Resources
 
