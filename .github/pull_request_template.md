@@ -1,6 +1,6 @@
-# ⚠️ __IMPORTANT: Please do not create a Pull Request without creating an issue first.__
+# ⚠️ __IMPORTANT: Please do not create a Pull Request without creating an Issue first.__
 
-All changes need to be discusssed before proceeding. Failure to do so may result in the pull request being rejected.
+All changes need to be discussed before proceeding. Failure to do so may result in the pull request being rejected.
 
 Please be sure to review our [Code of Conduct](https://github.com/COVID-19-electronic-health-system/.github/blob/master/CODE_OF_CONDUCT.md), [Contributing Guidelines](https://github.com/COVID-19-electronic-health-system/.github/blob/master/CONTRIBUTING.md), and [Support documentation](https://github.com/COVID-19-electronic-health-system/.github/blob/master/SUPPORT.md) before submitting a pull request.
 
@@ -16,7 +16,7 @@ Fixes #YOUR-ISSUE-HERE
 
 ## Details
 
-<!-- Please explain the details for any changes. What existin problem does this pull request solve? -->
+<!-- Please explain the details for any changes. What existing problem does this pull request solve? -->
 
 ## Test Plan (required)
 
