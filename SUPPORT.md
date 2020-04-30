@@ -20,21 +20,21 @@ Front End Code, Documentation, and booking meetings with experts
 
 Open to peer program any issue or bugs!
 
-- Github: @tesla809
+- Github: [@tesla809](https://github.com/tesla809)
 - Discord: `@Anthony A.`
 
 ### Carter Klein: (CTO / Back End Lead)
 
 Back End, Front End, Systems Architecture
 
-- Github: @SomeMoosery
+- Github: [@SomeMoosery](https://github.com/SomeMoosery)
 - Discord: `@Carter Klein`
 
 ### Brian H. Hough (UI/UX Lead)
 
 Front End, Design, Social Media Marketing
 
-- Github: @Brian H. Hough
+- Github: [@brianhhough](https://github.com/brianhhough)
 - Discord: `@InterstellarX`
 
 ### Akil Hylton (Hardware Lead)
@@ -43,7 +43,7 @@ Front End, Documentation, Machine Learning
 
 Open to peer program any issue or bugs!
 
-- Github: @akilhylton
+- Github: [@akilhylton](https://github.com/akilhylton)
 - Discord: `@Akil Hylton`
 
 ### Nick Giangreco (Analytics Lead)
@@ -52,42 +52,42 @@ Data Models, Analytics, Data Science
 
 See [analytics thread / issue.](https://github.com/COVID-19-electronic-health-system/Corona-tracker/issues/51)
 
-- Github: @ngiangre
+- Github: [@ngiangre](https://github.com/ngiangre)
 - Discord: `@NickG`
 
 ### Salvatore Volpe (Translations Lead)
 
 Translations, Analytics
 
-- Github: @salvolpe
+- Github: [@salvolpe](https://github.com/salvolpe)
 - Discord: `@laseplov`
 
 ### Adham Abo Hasson (Front End Lead)
 
 Front End
 
-- Github: @AdhamAH
+- Github: [@AdhamAH](https://github.com/AdhamAH)
 - Discord `@adham`
 
 ### Jason Schrader (Documentation Lead)
 
 Documentation, Documentation, Documentation
 
-- Github: @whoabuddy
+- Github: [@whoabuddy](https://github.com/whoabuddy)
 - Discord: `@whoabuddy`
 
 ### Austin Wu (Operations Lead)
 
 Front End and Technical Operations
 
-- Github: @awu556
+- Github: [@awu556](https://github.com/awu556)
 - Discord: `@AWu`
 
 ### Luke Lin (Discord Lead)
 
 Managing Discord, Discord Roles, Front End, Translations
 
-- Github: @lukelin1991
+- Github: [@lukelin1991](https://github.com/lukelin1991)
 - Discord: `@kirbypooh`
 
 ## CoronaTracker Resources
