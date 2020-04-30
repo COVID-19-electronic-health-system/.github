@@ -4,7 +4,35 @@
 
 <!-- TOC -->
 
-TODO: add updated TOC
+- [Project Leads and Contact Info](#project-leads-and-contact-info)
+  - [Anthony A (Project Organizer)](#anthony-a-project-organizer)
+  - [Carter Klein: (CTO / Back End Lead)](#carter-klein-cto--back-end-lead)
+  - [Brian H. Hough (UI/UX Lead)](#brian-h-hough-uiux-lead)
+  - [Akil Hylton (Hardware Lead)](#akil-hylton-hardware-lead)
+  - [Nick Giangreco (Analytics Lead)](#nick-giangreco-analytics-lead)
+  - [Salvatore Volpe (Translations Lead)](#salvatore-volpe-translations-lead)
+  - [Adham Abo Hasson (Front End Lead)](#adham-abo-hasson-front-end-lead)
+  - [Jason Schrader (Documentation Lead)](#jason-schrader-documentation-lead)
+  - [Austin Wu (Operations Lead)](#austin-wu-operations-lead)
+  - [Luke Lin (Discord Lead)](#luke-lin-discord-lead)
+- [CoronaTracker Resources](#coronatracker-resources)
+  - [Repositories](#repositories)
+  - [Technology Stack](#technology-stack)
+- [Blockstack Resources](#blockstack-resources)
+- [Common Commands](#common-commands)
+  - [Git](#git)
+  - [Yarn](#yarn)
+- [General Resources and Links](#general-resources-and-links)
+  - [Amazon Web Services (AWS)](#amazon-web-services-aws)
+  - [MongoDB](#mongodb)
+  - [Material UI](#material-ui)
+  - [Styled-Components](#styled-components)
+  - [React](#react)
+  - [Redux](#redux)
+  - [Axios](#axios)
+  - [Jest](#jest)
+  - [Golang](#golang)
+  - [Git / Github](#git--github)
 
 <!-- /TOC -->
 
