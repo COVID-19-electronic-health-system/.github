@@ -1,18 +1,13 @@
 # Support for CoronaTracker
 
+[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/coronatracker?color=4760ff&style=for-the-badge)](https://opencollective.com/coronatracker) [![Discord](https://img.shields.io/discord/687791378075484161?color=4760ff&label=Discord&style=for-the-badge)](https://discord.gg/pPERUuv) [![Twitter Follow](https://img.shields.io/twitter/follow/CoronaTrackApp?color=4760ff&label=Follow%20%40CoronaTrackApp&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=CoronaTrackApp)
+
 ## Table of Contents
 
 <!-- TOC -->
 
 - [Project Leads and Contact Info](#project-leads-and-contact-info)
-  - [Anthony A (Project Organizer)](#anthony-a-project-organizer)
-  - [Carter Klein: (CTO / Back End Lead)](#carter-klein-cto--back-end-lead)
-  - [Brian H. Hough (UI/UX Lead)](#brian-h-hough-uiux-lead)
-  - [Akil Hylton (Hardware Lead)](#akil-hylton-hardware-lead)
-  - [Nick Giangre (Analytics Lead)](#nick-giangre-analytics-lead)
-  - [Salvatore Volpe (Translations Lead)](#salvatore-volpe-translations-lead)
-  - [Luke Lin (Discord Lead)](#luke-lin-discord-lead)
-  - [Jason Schrader (Documentation Lead)](#jason-schrader-documentation-lead)
+- [Project Advisors](#project-advisors)
 - [CoronaTracker Resources](#coronatracker-resources)
   - [Repositories](#repositories)
   - [Technology Stack](#technology-stack)
@@ -25,6 +20,8 @@
   - [MongoDB](#mongodb)
   - [Material UI](#material-ui)
   - [React](#react)
+  - [Redux](#redux)
+  - [Axios](#axios)
   - [Jest](#jest)
   - [Golang](#golang)
   - [Git / Github](#git--github)
@@ -43,22 +40,22 @@ Front End Code, Documentation, and booking meetings with experts
 
 Open to peer program any issue or bugs!
 
-- Github: @tesla809
-- Discord: @Anthony A.
+- Github: [@tesla809](https://github.com/tesla809)
+- Discord: `@Anthony A.`
 
 ### Carter Klein: (CTO / Back End Lead)
 
 Back End, Front End, Systems Architecture
 
-- Github: @Carter Klein
-- Discord: @Carter Klein
+- Github: [@SomeMoosery](https://github.com/SomeMoosery)
+- Discord: `@Carter Klein`
 
 ### Brian H. Hough (UI/UX Lead)
 
 Front End, Design, Social Media Marketing
 
-- Github: @Brian H. Hough
-- Discord: @InterstellarX
+- Github: [@brianhhough](https://github.com/brianhhough)
+- Discord: `@InterstellarX`
 
 ### Akil Hylton (Hardware Lead)
 
@@ -66,38 +63,82 @@ Front End, Documentation, Machine Learning
 
 Open to peer program any issue or bugs!
 
-- Github: @akilhylton
-- Discord: @Akil Hylton
+- Github: [@akilhylton](https://github.com/akilhylton)
+- Discord: `@Akil Hylton`
 
-### Nick Giangre (Analytics Lead)
+### Nick Giangreco (Analytics Lead)
 
 Data Models, Analytics, Data Science
 
 See [analytics thread / issue.](https://github.com/COVID-19-electronic-health-system/Corona-tracker/issues/51)
 
-- Github: @ngiangre
-- Discord: @NickG
+- Github: [@ngiangre](https://github.com/ngiangre)
+- Discord: `@NickG`
 
 ### Salvatore Volpe (Translations Lead)
 
 Translations, Analytics
 
-- Github: @salvolpe
-- Discord: @laseplov
+- Github: [@salvolpe](https://github.com/salvolpe)
+- Discord: `@laseplov`
 
-### Luke Lin (Discord Lead)
+### Adham Abo Hasson (Front End Lead)
 
-Managing Discord, Discord Roles, Front End, Translations
+Front End
 
-- Github: @lukelin1991
-- Discord: @kirbypooh
+- Github: [@AdhamAH](https://github.com/AdhamAH)
+- Discord `@adham`
 
 ### Jason Schrader (Documentation Lead)
 
 Documentation, Documentation, Documentation
 
-- Github: @whoabuddy
-- Discord: @whoabuddy
+- Github: [@whoabuddy](https://github.com/whoabuddy)
+- Discord: `@whoabuddy`
+
+### Austin Wu (Operations Lead)
+
+Front End and Technical Operations
+
+- Github: [@awu556](https://github.com/awu556)
+- Discord: `@AWu`
+
+### Luke Lin (Discord Lead)
+
+Managing Discord, Discord Roles, Front End, Translations
+
+- Github: [@lukelin1991](https://github.com/lukelin1991)
+- Discord: `@kirbypooh`
+
+## Project Advisors
+
+### Kristen Kent, MD
+
+NEW JERSEY - Emergency Room Doctor
+
+### Jigna Zatakia, MD
+
+NEW YORK - Pulmonary Critical Care Specialist
+
+### Ameeruddin Ahmed
+
+NEW YORK - Enterprise Systems Architect & Scaled Arstor (Sold to Jstor)
+
+### Sigmund Hough, Ph.D., ABPP/rp
+
+MASSACHUSETTS - Clinical Rehabilitation Neuropsychologist; Assistant Professor
+
+### Sven Van Poucke, MD, Ph.D.
+
+BELGIUM - Anesthesiology, Critical Care, Emergency Medicine and Pain Therapy
+
+### Graham Anderson
+
+NEW YORK - Proven investor, consultant, and start-up manager
+
+### Salvatore Volpe, MD, FAAP, FACP, ABP-CI
+
+NEW YORK - Primary Care Physician, Informaticist, Chief Medical Officer
 
 ## CoronaTracker Resources
 
@@ -110,6 +151,8 @@ Documentation, Documentation, Documentation
 **[Coronalytics:](https://github.com/COVID-19-electronic-health-system/Coronalytics)** CoronaTracker analytics service
 
 **[Coronadvise:](https://github.com/COVID-19-electronic-health-system/Coronadvise)** CoronaTracker education service
+
+**[ux:](https://github.com/COVID-19-electronic-health-system/ux)** CoronaTracker version of the Blockstack ux repository
 
 **[.github](https://github.com/COVID-19-electronic-health-system/.github):** Community health files for the [@COVID-19-electronic-health-system](https://github.com/COVID-19-electronic-health-system) organization.
 
@@ -251,12 +294,6 @@ To learn more about Blockstack, [visit their website](https://blockstack.org/abo
 - Material Design: [Color System](https://material.io/design/color/)
 - Material Design: [Accessibility](https://material.io/design/usability/accessibility.html)
 - Udemy: [Material UI Courses](https://www.udemy.com/topic/material-design/)
-
-### Styled-Components
-
-Use the best bits of ES6 and CSS to style your apps without stress 💅. Useful to containerize our apps style along with our components.
-
-- [Documentation](https://styled-components.com/docs)
 
 ### React
 

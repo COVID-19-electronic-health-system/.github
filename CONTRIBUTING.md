@@ -1,5 +1,7 @@
 # Contributing to CoronaTracker
 
+[![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/coronatracker?color=4760ff&style=for-the-badge)](https://opencollective.com/coronatracker) [![Discord](https://img.shields.io/discord/687791378075484161?color=4760ff&label=Discord&style=for-the-badge)](https://discord.gg/pPERUuv) [![Twitter Follow](https://img.shields.io/twitter/follow/CoronaTrackApp?color=4760ff&label=Follow%20%40CoronaTrackApp&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=CoronaTrackApp)
+
 ## Table of Contents
 
 <!-- TOC -->
