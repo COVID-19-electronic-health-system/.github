@@ -5,16 +5,7 @@
 <!-- TOC -->
 
 - [Project Leads and Contact Info](#project-leads-and-contact-info)
-  - [Anthony A (Project Organizer)](#anthony-a-project-organizer)
-  - [Carter Klein: (CTO / Back End Lead)](#carter-klein-cto--back-end-lead)
-  - [Brian H. Hough (UI/UX Lead)](#brian-h-hough-uiux-lead)
-  - [Akil Hylton (Hardware Lead)](#akil-hylton-hardware-lead)
-  - [Nick Giangreco (Analytics Lead)](#nick-giangreco-analytics-lead)
-  - [Salvatore Volpe (Translations Lead)](#salvatore-volpe-translations-lead)
-  - [Adham Abo Hasson (Front End Lead)](#adham-abo-hasson-front-end-lead)
-  - [Jason Schrader (Documentation Lead)](#jason-schrader-documentation-lead)
-  - [Austin Wu (Operations Lead)](#austin-wu-operations-lead)
-  - [Luke Lin (Discord Lead)](#luke-lin-discord-lead)
+- [Project Advisors](#project-advisors)
 - [CoronaTracker Resources](#coronatracker-resources)
   - [Repositories](#repositories)
   - [Technology Stack](#technology-stack)
@@ -116,6 +107,36 @@ Managing Discord, Discord Roles, Front End, Translations
 
 - Github: [@lukelin1991](https://github.com/lukelin1991)
 - Discord: `@kirbypooh`
+
+## Project Advisors
+
+### Kristen Kent, MD
+
+NEW JERSEY - Emergency Room Doctor
+
+### Jigna Zatakia, MD
+
+NEW YORK - Pulmonary Critical Care Specialist
+
+### Ameeruddin Ahmed
+
+NEW YORK - Enterprise Systems Architect & Scaled Arstor (Sold to Jstor)
+
+### Sigmund Hough, Ph.D., ABPP/rp
+
+MASSACHUSETTS - Clinical Rehabilitation Neuropsychologist; Assistant Professor
+
+### Sven Van Poucke, MD, Ph.D.
+
+BELGIUM - Anesthesiology, Critical Care, Emergency Medicine and Pain Therapy
+
+### Graham Anderson
+
+NEW YORK - Proven investor, consultant, and start-up manager
+
+### Salvatore Volpe, MD, FAAP, FACP, ABP-CI
+
+NEW YORK - Primary Care Physician, Informaticist, Chief Medical Officer
 
 ## CoronaTracker Resources
 
