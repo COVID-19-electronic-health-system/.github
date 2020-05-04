@@ -26,7 +26,6 @@
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
   - [MongoDB](#mongodb)
   - [Material UI](#material-ui)
-  - [Styled-Components](#styled-components)
   - [React](#react)
   - [Redux](#redux)
   - [Axios](#axios)
@@ -270,12 +269,6 @@ To learn more about Blockstack, [visit their website](https://blockstack.org/abo
 - Material Design: [Color System](https://material.io/design/color/)
 - Material Design: [Accessibility](https://material.io/design/usability/accessibility.html)
 - Udemy: [Material UI Courses](https://www.udemy.com/topic/material-design/)
-
-### Styled-Components
-
-Use the best bits of ES6 and CSS to style your apps without stress 💅. Useful to containerize our apps style along with our components.
-
-- [Documentation](https://styled-components.com/docs)
 
 ### React
 
