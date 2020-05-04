@@ -150,6 +150,8 @@ NEW YORK - Primary Care Physician, Informaticist, Chief Medical Officer
 
 **[Coronadvise:](https://github.com/COVID-19-electronic-health-system/Coronadvise)** CoronaTracker education service
 
+**[ux:](https://github.com/COVID-19-electronic-health-system/ux)** CoronaTracker version of the Blockstack ux repository
+
 **[.github](https://github.com/COVID-19-electronic-health-system/.github):** Community health files for the [@COVID-19-electronic-health-system](https://github.com/COVID-19-electronic-health-system) organization.
 
 **[PanFLUte:](https://github.com/COVID-19-electronic-health-system/PanFLUte)** An open source spirometer for everyone.
