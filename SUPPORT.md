@@ -281,6 +281,7 @@ To learn more about Blockstack, [visit their website](https://blockstack.org/abo
 - AWS: [Getting Started Resource Center](https://aws.amazon.com/getting-started/)
 - Udemy: [AWS Certification Courses](https://www.udemy.com/topic/aws-certification/)
 - PluralSight: [AWS Paths and Courses](https://www.pluralsight.com/search?q=aws)
+- Intellipaat: [AWS Certification](https://intellipaat.com/aws-certification-training-online/)
 
 ### MongoDB
 
